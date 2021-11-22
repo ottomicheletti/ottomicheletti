@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- 🇧🇷 &nbsp; Brasileiro, 29 anos - Joinville/SC.
+- 🇧🇷 &nbsp; Brasileiro, 29 anos, casado - Joinville/SC.
 - 🎓 &nbsp; Formado em Administração de Empresas pela Católica de Santa Catarina, pós-graduando em Desenvolvimento Web Full-Stack pela PUC Minas e estudante em Desenvolvimento Web na Trybe.
   <!-- - 💼 &nbsp; Trabalho. -->
   <!-- - 📘 &nbsp; Aprendendo. -->
