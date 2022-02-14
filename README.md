@@ -52,7 +52,9 @@
 
 <div style='display:flex'>
   <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=ottomicheletti&include_all_commits=true&theme=vue&count_private=true&show_icons=true" />
+  
   <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottomicheletti&theme=vue&layout=compact" />
+  
 </div>
 
 <br/>
