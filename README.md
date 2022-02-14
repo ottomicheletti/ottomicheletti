@@ -6,10 +6,11 @@
 
 - 🇧🇷 &nbsp; Brasileiro, 29 anos, casado - Joinville/SC.
 - 🎓 &nbsp; Formado em Administração de Empresas pela Católica de Santa Catarina, pós-graduando em Desenvolvimento Web Full-Stack pela PUC Minas e estudante em Desenvolvimento Web na Trybe.
-  
+
   <!-- - 💼   Trabalho. -->
-  
+
   <!-- - 📘   Aprendendo. -->
+
 - 🧗‍♂️ &nbsp; Entusiasta e praticante de escalada esportiva.
 
 <h3> 💻 Linguagens</h3>
@@ -46,14 +47,13 @@
   
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
- 
 
 <br/>
 
-<a>
+<div style='display:flex'>
   <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=ottomicheletti&include_all_commits=true&theme=vue&count_private=true&show_icons=true" />
   <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottomicheletti&theme=vue&layout=compact" />
-</a>
+</div>
 
 <br/>
 
@@ -61,7 +61,7 @@
 <div style='display:flex'>
 <!-- <a href="https://www.youtube.com/channel/meu_canal_aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
 
-<a style='margin: auto 4px' href="https://www.linkedin.com/in/ottomic/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a style='margin: auto 4px' href="https://www.linkedin.com/in/ottomic/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <!-- <a href="https://instagram.com/micheletti_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 
