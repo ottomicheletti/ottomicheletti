@@ -48,24 +48,25 @@
     
   <img alt="Visual Studio Code" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">  
 </div>
-
 <br/>
-
-<div style='display:flex'>
+<span>
   <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=ottomicheletti&include_all_commits=true&theme=vue&count_private=true&show_icons=true&hide_title=true" />
+</span>
+<span>
   <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottomicheletti&theme=vue&layout=compact&hide_title=true" />
-</div>
-
+</span>
 <br/>
 
 <h3> 🔗  Meus contatos </h3>
-<div style='display:flex'>
+
 <!-- <a href="https://www.youtube.com/channel/meu_canal_aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
 
+<span>
 <a style='margin: auto 4px' href="https://www.linkedin.com/in/ottomic/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+</span>
+  
 <!-- <a href="https://instagram.com/micheletti_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 
+<span>
 <a style='margin: auto 4px' href = "mailto:michelettiotto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-</div>
+</span>
