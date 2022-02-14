@@ -12,36 +12,45 @@
   <!-- - 📘   Aprendendo. -->
 - 🧗‍♂️ &nbsp; Entusiasta e praticante de escalada esportiva.
 
-<h3> 🛠️  Tecnologias</h3>
+<h3> 💻 Linguagens</h3>
+<div style='display:flex'>
+  <img align="center" alt="Markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
+  
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
 
-- 💻 &nbsp;
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat-square&logo=markdown)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap)
-  ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat-square&logo=jquery)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat-square&logo=jest)
+<h3> 📚 Bibliotecas</h3>
+<div style='display:flex'>    
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   
-  <!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) -->
+  <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   
-  <!-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
+  <img align="center" alt="JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
+</div> 
+ 
+<h3> 🔧 Ferramentas</h3>
+<div style='display:flex'>
+  <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   
-  <!-- - 🛢   -->
+  <img align="center" alt="Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
   
-  <!-- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) -->
+  <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   
-  <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) -->
-
-- 🔧 &nbsp;
-  ![Arch Linux](https://img.shields.io/badge/-ArchLinux-333333?style=flat-square&logo=archlinux)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
+ 
 
 <br/>
 
-<a href="https://github.com/ottomicheletti">
+<a>
   <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=ottomicheletti&include_all_commits=true&theme=vue&count_private=true&show_icons=true" />
   <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottomicheletti&theme=vue&layout=compact" />
 </a>
@@ -49,11 +58,13 @@
 <br/>
 
 <h3> 🔗  Meus contatos </h3>
+<div style='display:flex'>
+<!-- <a href="https://www.youtube.com/channel/meu_canal_aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
 
-<!-- <a href="https://www.exemplo.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.exemplo.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a style='margin: auto 4px' href="https://www.linkedin.com/in/ottomic/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<a href="https://www.linkedin.com/in/ottomic/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Otto%20Micheletti-blue?style=flat-square&logo=linkedin"></a>
+<!-- <a href="https://instagram.com/micheletti_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 
-<!-- <a href="https://www.instagram.com/micheletti_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-micheletti__-blue?style=flat-square&logo=instagram"></a> -->
+<a style='margin: auto 4px' href = "mailto:michelettiotto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<a href="mailto:michelettiotto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-michelettiotto@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</div>
