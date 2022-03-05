@@ -32,6 +32,8 @@
   <img alt="Jest" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   
   <img alt="JQuery" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
+
+  <img alt="React" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div> 
  
 <h3> 🔧 Ferramentas</h3>
