@@ -51,12 +51,12 @@
   <img alt="Visual Studio Code" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">  
 </div>
 <br/>
-<span>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=ottomicheletti&include_all_commits=true&theme=vue&count_private=true&show_icons=true&hide_title=true" />
-</span>
-<span>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottomicheletti&theme=vue&layout=compact&hide_title=true" />
-</span>
+
+<a href="https://github.com/ottomicheletti">
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ottomicheletti&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottomicheletti&layout=compact&theme=vue"/>
+</a>
+  
 <br/>
 
 <h3> 🔗  Meus contatos </h3>
