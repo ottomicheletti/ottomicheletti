@@ -1,54 +1,74 @@
-<!-- <img src="banner?"> -->
+Hi 👋 My name is Otto
+=====================
 
-<h2> Olá, eu sou o Otto.</h2>
+Front-End Web Developer
+-----------------------
+<h3>👨🏻‍💻 About me</h3>
 
-<h3> 👨🏻‍💻  Sobre mim </h3>
+- 🇧🇷 &nbsp; Brazilian, 29yo, married.
+- 🎓 &nbsp; Bachelor of Business Administration (BBA) from [Católica de Santa Catarina](https://catolicasc.org.br/), graduate student of Full-Stack Web Development from [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) and currently improving my Web Development knowledge at [Trybe](https://github.com/betrybe).
+- 🧠 &nbsp; I'm learning Docker, SQL and TypeScript
+- 🧗‍♂️ &nbsp; Enthusiast of sport climbing.
 
-- 🇧🇷 &nbsp; Brasileiro, 29 anos, casado - Joinville/SC.
-- 🎓 &nbsp; Formado em Administração de Empresas pela Católica de Santa Catarina, pós-graduando em Desenvolvimento Web Full-Stack pela PUC Minas e estudante em Desenvolvimento Web na Trybe.
-
-  <!-- - 💼   Trabalho. -->
-
-  <!-- - 📘   Aprendendo. -->
-
-- 🧗‍♂️ &nbsp; Entusiasta e praticante de escalada esportiva.
-
-<h3> 💻 Linguagens</h3>
+<h3>💻 Languages</h3>
 <div style='display:flex'>
-  
+
   <img alt="CSS3" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  
+
   <img alt="HTML5" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  
+
   <img alt="JavaScript" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  <img alt="TypeScript" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
   <img alt="Markdown" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
 </div>
 
-<h3> 📚 Bibliotecas</h3>
-<div style='display:flex'>    
+<h3> 📚 Libraries</h3>
+<div style='display:flex'>
   <img alt="Bootstrap" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  
+
   <img alt="Jest" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  
+
   <img alt="JQuery" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
 
   <img alt="React" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div> 
- 
-<h3> 🔧 Ferramentas</h3>
+
+  <img alt="Redux" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+
+</div>
+
+<h3> 📁 Database </h3>
 <div style='display:flex'>
-  <img alt="Bash" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  
-  <img alt="Git" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  
-  <img alt="GitHub" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  
+   <img alt="MySQL" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+</div>
+
+<h3> 🔧 Tools</h3>
+<div style='display:flex'>
   <img alt="Linux" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  
+
+  <img alt="Windows" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+
+  <img alt="Bash" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+
+  <img alt="Git" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+
+  <img alt="GitHub" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+
+  <img alt="NPM" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons//npm/npm-original-wordmark.svg">
+
+  <img alt="Visual Studio Code" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+
   <img alt="Slack" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
-    
-  <img alt="Visual Studio Code" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">  
+
+  <img alt="Trello" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
+
+  <img alt="Adobe Photoshop" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+
+  <img alt="Adobe Premiere" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg">
+
+  <img alt="Docker" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+
 </div>
 <br/>
 
@@ -56,19 +76,20 @@
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ottomicheletti&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottomicheletti&layout=compact&theme=vue"/>
 </a>
-  
+
 <br/>
 
-<h3> 🔗  Meus contatos </h3>
-
+<h3> 🔗  How to reach me? </h3>
+<div style='display:flex'>
 <!-- <a href="https://www.youtube.com/channel/meu_canal_aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
 
 <span>
 <a style='margin: auto 4px' href="https://www.linkedin.com/in/ottomic/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </span>
-  
+
 <!-- <a href="https://instagram.com/micheletti_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 
 <span>
-<a style='margin: auto 4px' href = "mailto:michelettiotto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a style='margin: auto 4px' href = "mailto:michelettiotto@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </span>
+</div>
