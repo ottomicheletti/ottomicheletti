@@ -5,7 +5,7 @@ Front-End Web Developer
 -----------------------
 <h3>👨🏻‍💻 About me</h3>
 
-- :brazil: Brazilian, 29yo, married.
+- :brazil: Brazilian, 30yo, married.
 - :mortar_board: Bachelor of Business Administration (BBA) from [Católica de Santa Catarina](https://catolicasc.org.br/), graduate student of Full-Stack Web Development from [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) and currently improving my Web Development knowledge at [Trybe](https://github.com/betrybe).
 - :brain: I'm learning Docker, SQL and TypeScript
 - :climbing: Enthusiast of sport climbing.
