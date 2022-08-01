@@ -1,7 +1,7 @@
 Hi 👋 My name is Otto
 =====================
 
-Front-End Web Developer
+FullStack Web Developer
 -----------------------
 <h3>👨🏻‍💻 About me</h3>
 
