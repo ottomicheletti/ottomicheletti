@@ -69,6 +69,7 @@ Front-End Web Developer
 
   <img alt="Docker" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 
+  <img alt="NodeJS" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 </div>
 <br/>
 
