@@ -6,8 +6,8 @@ Front-End Web Developer
 <h3>👨🏻‍💻 About me</h3>
 
 - :brazil: Brazilian, 30yo, married.
-- :mortar_board: Bachelor of Business Administration (BBA) from [Católica de Santa Catarina](https://catolicasc.org.br/), graduate student of Full-Stack Web Development from [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) and currently improving my Web Development knowledge at [Trybe](https://github.com/betrybe).
-- :brain: I'm learning Docker, SQL and TypeScript
+- :mortar_board: Bachelor of Business Administration (BBA) from [Católica de Santa Catarina](https://catolicasc.org.br/) and currently improving my Web Development knowledge at [Trybe](https://github.com/betrybe).
+- :brain: Currently I'm learning TypeScript
 - :climbing: Enthusiast of sport climbing.
 
 <h3>💻 Languages</h3>
@@ -24,26 +24,32 @@ Front-End Web Developer
   <img alt="Markdown" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
 </div>
 
-<h3> 📚 Libraries</h3>
+<h3>💪 Frontend</h3>
 <div style='display:flex'>
-  <img alt="Bootstrap" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-
-  <img alt="Jest" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-
-  <img alt="JQuery" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
-
   <img alt="React" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
   <img alt="Redux" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 
+  <img alt="Jest" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+
+  <img alt="MaterialUi" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
+
+  <img alt="Sass" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+
 </div>
 
-<h3> 📁 Database </h3>
+<h3>🦾 Backend</h3>
 <div style='display:flex'>
+   <img alt="NodeJS" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+
+  <img alt="Express" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+
    <img alt="MySQL" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+
+   <img alt="Sequelize" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
 </div>
 
-<h3> 🔧 Tools</h3>
+<h3>🔧 Tools</h3>
 <div style='display:flex'>
   <img alt="Linux" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
@@ -69,9 +75,7 @@ Front-End Web Developer
 
   <img alt="Docker" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 
-  <img alt="NodeJS" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  
-  <img alt="Express" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img alt="Heroku" height="35" width="35" style='margin: auto 4px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
 </div>
 <br/>
 
