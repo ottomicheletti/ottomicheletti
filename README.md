@@ -7,7 +7,7 @@ FullStack Web Developer
 
 - :brazil: Brazilian, 30yo, married.
 - :mortar_board: Bachelor of Business Administration (BBA) from [Católica de Santa Catarina](https://catolicasc.org.br/) and currently improving my Web Development knowledge at [Trybe](https://github.com/betrybe).
-- :brain: Currently I'm learning TypeScript
+- :brain: Currently I'm learning Python and OOP
 - :climbing: Enthusiast of sport climbing.
 
 <h3>💻 Languages</h3>
