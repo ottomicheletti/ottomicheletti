@@ -18,7 +18,6 @@
     </td>
     <td>
      <p align="center">
-        <!-- <img height="360em" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"/> -->
         <img height="270em" src="./eatsleepcoderepeat.webp"/>
      </p>
     </td>
