@@ -18,7 +18,6 @@
     </td>
     <td>
      <p align="center">
-        <!-- <img height="360em" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"/> -->
         <img height="270em" src="./eatsleepcoderepeat.webp"/>
      </p>
     </td>
@@ -48,6 +47,10 @@
      <br>
      <img src="https://img.shields.io/badge/vite-05122A?style=for-the-badge&logo=vite&logoColor=white"/>
      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+     <br>
+     <img src="https://img.shields.io/badge/Linux-05122A?style=for-the-badge&logo=linux&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Windows-05122A?style=for-the-badge&logo=windows&logoColor=white"/>
    </td>
    <td>
     <div align="center">
