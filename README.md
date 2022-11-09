@@ -1,6 +1,5 @@
-### Hi there 👋
-
-## I'm Otto
+<div align="center">
+  <img height="250em" src="./header.png"/>
 
 ![](https://komarev.com/ghpvc/?username=ottomicheletti&color=lightgrey)
 <table>
@@ -77,5 +76,5 @@
    </td>
   </tr>
 </table>
+</div>
 
-![](https://hit.yhype.me/github/profile?user_id=83674797)
