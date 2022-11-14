@@ -57,9 +57,9 @@
             <br>if you need further information or help.
           </p>
           <br>
-          <!-- <a href="https://www.instagram.com/username_here" target="_blank">
+          <a href="https://www.instagram.com/micheletti_" target="_blank">
             <img align="center" alt="Otto Micheletti | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
-          </a> &nbsp;&nbsp; -->
+          </a> &nbsp;&nbsp;
           <!-- <a href="https://www.youtube.com/c/username_here" target="_blank">
             <img align="center" alt="Otto Micheletti | YouTube" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/youtube.png" />
           </a> &nbsp;&nbsp; -->
