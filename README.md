@@ -6,7 +6,7 @@
         <h2> 💻 &nbsp;About Me </h2>
         <ul>
           <li>🎓 &nbsp; Bachelor of Business Administration (BBA) from <a href="https://catolicasc.org.br/">Católica de Santa Catarina</a></li>
-          <li>📚 &nbsp; Studying Full Stack Web Development at <a href="https://github.com/betrybe">Trybe</a></li>
+          <li>📚 &nbsp; Certified Full Stack Web Developer from <a href="https://github.com/betrybe">Trybe</a></li>
         </ul>
         <p align="center">
           <br>
