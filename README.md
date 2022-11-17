@@ -7,6 +7,7 @@
         <ul>
           <li>🎓 &nbsp; Bachelor of Business Administration (BBA) from <a href="https://catolicasc.org.br/">Católica de Santa Catarina</a></li>
           <li>📚 &nbsp; Certified Full Stack Web Developer from <a href="https://github.com/betrybe">Trybe</a></li>
+          <li>📝 &nbsp; Currently learning Rust</li>
         </ul>
         <p align="center">
           <br>
