@@ -42,9 +42,9 @@
         <img src="https://img.shields.io/badge/git-05122A?style=for-the-badge&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/github-05122A?style=for-the-badge&logo=github&logoColor=white"/>
         <br>
-        <img src="https://img.shields.io/badge/mysql-05122A?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-05122A?style=for-the-badge&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/docker-05122A?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-05122A?style=for-the-badge&logo=docker&logoColor=white"/>
         <br>
         <img src="https://img.shields.io/badge/vite-05122A?style=for-the-badge&logo=vite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
