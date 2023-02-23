@@ -26,6 +26,8 @@
         <h2> 🛠 &nbsp;Tech Stack</h2>
         <img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=white"/>
         <br>
+        <img src="https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=php&logoColor=white"/>
+        <br>
         <img src="https://img.shields.io/badge/Html5-05122A?style=for-the-badge&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/Css3-05122A?style=for-the-badge&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white"/>
