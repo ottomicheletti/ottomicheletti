@@ -8,7 +8,7 @@
           <li>🎓 &nbsp; Bachelor of Business Administration (BBA) from <a href="https://catolicasc.org.br/">Católica de Santa Catarina</a></li>
           <li>🎓 &nbsp; Student of Systems Analysis and Development at <a href="https://catolicasc.org.br/">Católica de Santa Catarina</a></li>
           <li>📚 &nbsp; Certified Full Stack Web Developer from <a href="https://github.com/betrybe">Trybe</a></li>
-          <li>📝 &nbsp; Currently learning C and Rust</li>
+          <li>📝 &nbsp; Currently learning C and PHP</li>
         </ul>
         <p align="center">
           <br>
