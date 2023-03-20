@@ -42,6 +42,7 @@
         <img src="https://img.shields.io/badge/git-05122A?style=for-the-badge&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/github-05122A?style=for-the-badge&logo=github&logoColor=white"/>
         <br>
+        <img src="https://img.shields.io/badge/MS%20SQL%20Server-05122A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-05122A?style=for-the-badge&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-05122A?style=for-the-badge&logo=docker&logoColor=white"/>
