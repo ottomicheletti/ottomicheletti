@@ -23,9 +23,9 @@
     <tr>
       <td>
         <h2> 🛠 &nbsp;Tech Stack</h2>
-        <img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=white"/>
-        <br>
+        <img src="https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=white"/>
         <br>
         <img src="https://img.shields.io/badge/Html5-05122A?style=for-the-badge&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/Css3-05122A?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -33,21 +33,24 @@
         <br>
         <img src="https://img.shields.io/badge/react-05122A?style=for-the-badge&logo=react&logoColor=white"/>
         <img src="https://img.shields.io/badge/redux-05122A?style=for-the-badge&logo=redux&logoColor=white"/>
-        <!-- <img src="https://img.shields.io/badge/SolidJS-05122A?style=for-the-badge&logo=solid&logoColor=white"/> -->
-        <!-- <img src="https://img.shields.io/badge/tailwindcss-05122A?style=for-the-badge&logo=tailwind-css&logoColor=white"/> -->
         <img src="https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/express.js-05122A?style=for-the-badge&logo=express&logoColor=white"/>
         <br>
         <img src="https://img.shields.io/badge/git-05122A?style=for-the-badge&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/github-05122A?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/gitlab-05122A?style=for-the-badge&logo=gitlab&logoColor=white"/>
         <br>
+        <img src="https://img.shields.io/badge/PostgreSQL-05122A?style=for-the-badge&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/MS%20SQL%20Server-05122A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-05122A?style=for-the-badge&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-05122A?style=for-the-badge&logo=docker&logoColor=white"/>
         <br>
-        <img src="https://img.shields.io/badge/vite-05122A?style=for-the-badge&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DBeaver-05122A?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-05122A?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Insomnia-05122A?style=for-the-badge&logo=insomnia&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-05122A?style=for-the-badge&logo=intellijidea&logoColor=white"/>
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vite-05122A?style=for-the-badge&logo=vite&logoColor=white"/>
         <br>
         <img src="https://img.shields.io/badge/Linux-05122A?style=for-the-badge&logo=linux&logoColor=white"/>
         <img src="https://img.shields.io/badge/Windows-05122A?style=for-the-badge&logo=windows&logoColor=white"/>
