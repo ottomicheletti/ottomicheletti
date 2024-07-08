@@ -7,7 +7,7 @@
         <ul>
           <li>🎓 &nbsp; Bachelor of Business Administration (BBA) from <a href="https://catolicasc.org.br/">Católica de Santa Catarina</a></li>
           <li>🎓 &nbsp; Student of Systems Analysis and Development at <a href="https://catolicasc.org.br/">Católica de Santa Catarina</a></li>
-          <li>📝 &nbsp; Currently learning Java</li>
+          <li>📝 &nbsp; Currently learning Kotlin</li>
         </ul>
         <p align="center">
           <br>
@@ -49,7 +49,6 @@
         <img src="https://img.shields.io/badge/Insomnia-05122A?style=for-the-badge&logo=insomnia&logoColor=white"/>
         <br>
         <img src="https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-05122A?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vite-05122A?style=for-the-badge&logo=vite&logoColor=white"/>
         <br>
         <img src="https://img.shields.io/badge/Linux-05122A?style=for-the-badge&logo=linux&logoColor=white"/>
