@@ -7,7 +7,7 @@
         <ul>
           <li>🎓 &nbsp; Bachelor of Business Administration (BBA) from <a href="https://catolicasc.org.br/">Católica de Santa Catarina</a></li>
           <li>🎓 &nbsp; Student of Systems Analysis and Development at <a href="https://catolicasc.org.br/">Católica de Santa Catarina</a></li>
-          <li>📝 &nbsp; Currently learning Flutter/Dart</li>
+<!--           <li>📝 &nbsp; Currently learning Kotlin</li> -->
         </ul>
         <p align="center">
           <br>
