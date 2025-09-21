@@ -73,12 +73,12 @@
           <!-- <a href="https://www.youtube.com/c/username_here" target="_blank">
             <img align="center" alt="Otto Micheletti | YouTube" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/youtube.png" />
           </a> &nbsp;&nbsp; -->
-          <a href="mailto:michelettiotto@gmail.com" >
+<!--           <a href="mailto:michelettiotto@gmail.com" >
             <img align="center" alt="Otto Micheletti | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
-          </a> &nbsp;&nbsp;
+          </a> &nbsp;&nbsp; -->
           <a href="https://www.linkedin.com/in/ottomic/" >
             <img align="center" alt="Otto Micheletti | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
-          </a> &nbsp;&nbsp;
+          </a>
           <br>
         </div>
       </td>
