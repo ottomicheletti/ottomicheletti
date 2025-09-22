@@ -5,9 +5,9 @@
       <td>
         <h2> 💻 &nbsp;About Me </h2>
         <ul>
+          <li>🎓 &nbsp; Postgraduate Specialization in Java from <a href="https://portal.utfpr.edu.br/">UTFPR</a> (in progress)</li>
+          <li>🎓 &nbsp; Associate's Degree in Systems Analysis and Development from <a href="https://catolicasc.org.br/">Católica de Santa Catarina</a></li>
           <li>🎓 &nbsp; Bachelor of Business Administration (BBA) from <a href="https://catolicasc.org.br/">Católica de Santa Catarina</a></li>
-          <li>🎓 &nbsp; Student of Systems Analysis and Development at <a href="https://catolicasc.org.br/">Católica de Santa Catarina</a></li>
-<!--           <li>📝 &nbsp; Currently learning Kotlin</li> -->
         </ul>
         <p align="center">
           <br>
