@@ -42,6 +42,7 @@
         <img src="https://img.shields.io/badge/gitlab-05122A?style=for-the-badge&logo=gitlab&logoColor=white"/>
         <br>
         <img src="https://img.shields.io/badge/PostgreSQL-05122A?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-05122A?style=for-the-badge&logo=mongodb&logoColor=white"/>
         <br>
         <img src="https://img.shields.io/badge/DataGrip-05122A?style=for-the-badge&logo=datagrip&logoColor=white"/>
@@ -50,8 +51,6 @@
         <img src="https://img.shields.io/badge/Insomnia-05122A?style=for-the-badge&logo=insomnia&logoColor=white"/>
         <br>
         <img src="https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-05122A?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PhpStorm-05122A?style=for-the-badge&logo=phpstorm&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Android%20Studio-05122A?style=for-the-badge&logo=androidstudio&logoColor=white"/>
         <br>
         <img src="https://img.shields.io/badge/Linux-05122A?style=for-the-badge&logo=linux&logoColor=white"/>
         <img src="https://img.shields.io/badge/Windows-05122A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNTAgNTAiIHdpZHRoPSIxNTBweCIgaGVpZ2h0PSIxNTBweCI+PHBhdGggZD0iTTQgNEgyNFYyNEg0ek0yNiA0SDQ2VjI0SDI2ek00IDI2SDI0VjQ2SDR6TTI2IDI2SDQ2VjQ2SDI2eiIvPjwvc3ZnPg==&logoColor=white"/>
